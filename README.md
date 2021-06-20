@@ -3,6 +3,7 @@
 ethial hacking 💻 
 flutter dev ❤️‍🔥
 fullstackJS 🍃
+chess ♚
 - 🌱 I’m currently learning 
 Flutter | fullstackJS
 - 💞️ I’m looking to collaborate on 
