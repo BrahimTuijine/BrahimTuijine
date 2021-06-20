@@ -4,8 +4,7 @@ ethial hacking 💻
 flutter dev ❤️‍🔥
 fullstackJS 🍃
 - 🌱 I’m currently learning 
-Flutter
-python
+Flutter | fullstackJS
 - 💞️ I’m looking to collaborate on 
 python projects
 flutter projects
