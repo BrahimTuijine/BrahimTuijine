@@ -5,9 +5,8 @@ flutter dev ❤️‍🔥
 fullstackJS 🍃
 chess ♚
 - 🌱 I’m currently learning 
-Flutter | fullstackJS
+Flutter | Grpc
 - 💞️ I’m looking to collaborate on 
-python projects
 flutter projects
 - 📫 How to reach me 
 fb : https://www.facebook.com/brahim.tuijine
