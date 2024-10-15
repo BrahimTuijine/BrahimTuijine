@@ -5,7 +5,7 @@ flutter dev ❤️‍🔥
 fullstackJS 🍃
 chess ♚
 - 🌱 I’m currently learning 
-Flutter | Grpc | Design Patterns
+Flutter | SwiftUi | 
 - 💞️ I’m looking to collaborate on 
 flutter projects
 - 📫 How to reach me 
