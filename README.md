@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 ethial hacking 💻 
 flutter dev ❤️‍🔥
-fullstackJS 🍃
+swiftUI 🍃
 chess ♚
 - 🌱 I’m currently learning 
 Flutter | SwiftUi | 
